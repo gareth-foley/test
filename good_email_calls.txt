@@ -1,0 +1,6 @@
+{% extends 'library/layout/good_email_base_v2' %}
+{% use 'layout/fixed_sublayout' %}
+{% 'partial/linker' as linker %}
+
+@import 'library/scss/reset';
+@import 'scss/fixed';
